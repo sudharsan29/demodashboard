@@ -8,7 +8,7 @@ function Dasboard() {
   return (
     <div className="carebuddy">
 
-      <div className="fullpage">
+      
 
       <div className="prayogana">
         <div className="textborder">
@@ -315,7 +315,7 @@ function Dasboard() {
           
           </div>
          </div>
-    </div>
+   
   );
 }
 

@@ -6,11 +6,12 @@
     top: 96px;
 
 }
-.fullpage{
-    position: absolute;
-  padding: 650px;
-  margin-left: 62px;
-  padding-bottom: 330px;
+.carebuddy{
+    position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
 }
 .textborder{
     position: absolute;
