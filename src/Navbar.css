@@ -772,11 +772,11 @@ flex-grow: 0;
 
   
   
-.link{
+.link1{
     text-decoration: none;
   }
   
-  .link.active {
+  .link.active1 {
     background-color: blue;
     color: white;
   }

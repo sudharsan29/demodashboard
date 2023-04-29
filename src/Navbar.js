@@ -22,7 +22,7 @@ function Navbar() {
   
 <div className='navtext1'>
  
-  <Link to="/dashboard"className='link' activeClassName='active' >dashboard</Link>
+  <Link to="/dashboard"className='link1' activeClassName='active1' >dashboard</Link>
   
 </div>
     </div>
@@ -33,7 +33,7 @@ function Navbar() {
     <div className='textname2'>
       <div className='navtext2'>
         
-      <Link to="/interaction"className='link' activeClassName='active' >interaction</Link>
+      <Link to="/interaction"className='link1' activeClassName='active1' >interaction</Link>
       
       </div>
       </div>
@@ -44,7 +44,7 @@ function Navbar() {
     <div className='textname3'>
   
 <div className='navtext3'>
-<Link to="/task"className='link' activeClassName='active' >Tasks</Link>
+<Link to="/task"className='link1' activeClassName='active1' >Tasks</Link>
 </div>
     </div>
     <div className='bottomborder3'></div>
@@ -57,7 +57,7 @@ function Navbar() {
     <div className='textname4'>
   
 <div className='navtext4'>
-<Link to="/calender"className='link' activeClassName='active'>calender</Link>
+<Link to="/calender"className='link1' activeClassName='active1'>calender</Link>
 </div>
     </div>
     <div className='bottomborder4'></div>
@@ -68,7 +68,7 @@ function Navbar() {
     <div className='textname5'>
   
 <div className='navtext5'>
-<Link to="/member"className='link' activeClassName='active'>Members</Link>
+<Link to="/member"className='link1' activeClassName='active1'>Members</Link>
 </div>
     </div>
     <div className='bottomborder5'></div>
@@ -79,7 +79,7 @@ function Navbar() {
     <div className='textname6'>
   
 <div className='navtext6'>
-<Link to="/report"className='link' activeClassName='active'>Reports</Link>
+<Link to="/report"className='link1' activeClassName='active1'>Reports</Link>
 </div>
     </div>
     <div className='bottomborder6'></div>
@@ -90,7 +90,7 @@ function Navbar() {
     <div className='textname7'>
   
 <div className='navtext7'>
-<Link to="/admin"className='link' activeClassName='active' >Admin</Link>
+<Link to="/admin"className='link1' activeClassName='active1' >Admin</Link>
 </div>
     </div>
     <div className='bottomborder7'></div>
@@ -102,7 +102,7 @@ function Navbar() {
     <div className='textname8'>
   
 <div className='navtext8'>
-<Link to="/setup"className='link' activeClassName='active' >Setup</Link>
+<Link to="/setup"className='link1' activeClassName='active1' >Setup</Link>
 </div>
     </div>
     <div className='bottomborder8'></div>
