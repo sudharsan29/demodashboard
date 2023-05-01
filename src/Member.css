@@ -151,7 +151,7 @@ top: 12px;
     position: absolute;
     width: 175px;
     height: 231px;
-    left: 20px;
+    left: 50px;
     top: 55px;
 
 }
@@ -163,7 +163,7 @@ top: 12px;
     padding: 20px 0px 16px;
     gap: 20px;
 position: absolute;
-left: 33px;
+left: 3px;
     width: 183px;
     height: 231px;
 
@@ -195,7 +195,7 @@ left: 33px;
     padding: 0px 16px;
 
     width: 183px;
-    height: 32px;
+    height: 35px;
 
 
     /* Inside auto layout */
@@ -226,6 +226,7 @@ image {
     padding: 0px 8px;
     gap: 4px;
 position:absolute;
+top: 60px;
     width: 183px;
     height: 440px;
 
@@ -245,7 +246,7 @@ position:absolute;
     position: absolute;
 width: 937.01px;
 height: 0px;
-left: -209px;
+left: -200px;
 top: 550px;
 
 border: 1px solid #000000;
@@ -273,50 +274,21 @@ background: #E5E7EB;
     position: absolute;
 width: 867px;
 height: 1px;
-left: 250px;
-top: 130px;
+left: 400px;
+top: 300px;
 
 /* gray/200 */
 
 background: #E5E7EB;
 }
 
-.labels2{
-    position: absolute;
-width: 867px;
-height: 1px;
-left: 359px;
-top: 302px;
 
-/* gray/200 */
-
-background: #E5E7EB;
-}
-
-.sublabel2{
-    position: absolute;
-width: 308px;
-height: 16px;
-left: 361px;
-top: 277px;
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-/* identical to box height, or 114% */
-
-
-/* gray/700 */
-
-color: #374151;
-}
 .divider3{
     position: absolute;
 width: 867px;
 height: 1px;
-left: 300px;
-top: 180px;
+left: 400px;
+top: 350px;
 
 /* gray/200 */
 
@@ -327,8 +299,8 @@ background: #E5E7EB;
     position: absolute;
 width: 867px;
 height: 1px;
-left: 300px;
-top: 85px;
+left: 400px;
+top: 250px;
 
 /* gray/200 */
 
@@ -340,7 +312,7 @@ background: #E5E7EB;
 position: absolute;
 width: 867px;
 height: 1px;
-left: 300px;
+left: 400px;
 top: 230px;
 
 /* gray/200 */
@@ -352,8 +324,8 @@ background: #E5E7EB;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 260px;
+    left: 400px;
+    top: 410px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -369,21 +341,23 @@ background: #E5E7EB;
 
 
 .mobilenumber{
+    position: absolute;
+    width: 308px;
+    height: 16px;
+    left: 400px;
+    top: 440px;
     text-align: left;
-position: absolute;
-width: 308px;
-height: 16px;
-left: 300px;
-top: 300px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-list-style-type: none;
-
-color: #374151;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+    
+    
+    /* gray/700 */
+    
+    color: #374151;
 
 
 }
@@ -391,8 +365,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 692px;
-    top: 300px;
+    left: 690px;
+    top: 440px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -407,17 +381,17 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 330px;
+    left: 400px;
+    top: 470px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    list-style-type: none;
     
     color: #374151;
+    
     
     
 }
@@ -425,8 +399,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 692px;
-    top: 330px;
+    left: 690px;
+    top: 470px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -442,8 +416,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 360px;
+    left: 400px;
+    top: 500px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -458,8 +432,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 692px;
-    top: 360px;
+    left: 690px;
+    top: 500px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -475,8 +449,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 390px;
+    left: 400px;
+    top: 530px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -492,8 +466,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 692px;
-    top: 390px;
+    left: 690px;
+    top: 530px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -540,35 +514,38 @@ color: #374151;
 }
 .name{
     position: absolute;
-    width: 308px;
-    height: 16px;
-    left: 300px;
-    top: 60px;
-    text-align: left;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    list-style-type: none;
-    
-    color: #374151;
+width: 308px;
+height: 16px;
+left: 400px;
+top: 220px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+list-style-type: none;
+text-align: left;
+
+
+color: #374151;
 }
 .name1{
     position: absolute;
     width: 308px;
     height: 16px;
     left: 690px;
-    top: 60px;
-    text-align: left;
+    top: 220px;
+    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    list-style-type: none;
+    text-align: left;
     
     color: #374151;
+    
     
 }
 
@@ -576,15 +553,14 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 110px;
+    left: 400px;
+    top: 270px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    list-style-type: none;
     
     color: #374151;
 }
@@ -593,7 +569,7 @@ color: #374151;
     width: 308px;
     height: 16px;
     left: 690px;
-    top: 110px;
+    top: 270px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -601,6 +577,7 @@ color: #374151;
     font-size: 14px;
     line-height: 16px;
     list-style-type: none;
+    text-align: left;
     
     color: #374151;
     
@@ -610,15 +587,16 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 160px;
-    text-align: left;
+    left: 400px;
+    top: 320px;
+    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    list-style-type: none;
+    text-align: left;
+    
     color: #374151;
     
     
@@ -627,8 +605,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 692px;
-    top: 160px;
+    left: 690px;
+    top: 320px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -642,17 +620,18 @@ color: #374151;
 }
 .nickname{
     position: absolute;
-    width: 308px;
-    height: 16px;
-    left: 300px;
-    top: 210px;
-    text-align: left;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    list-style-type: none;
+width: 308px;
+height: 16px;
+left: 400px;
+top: 370px;
+text-align: left;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+color: #374151;
     color: #374151;
 }
 .nickname1{
@@ -660,7 +639,7 @@ color: #374151;
     width: 308px;
     height: 16px;
     left: 690px;
-    top: 210px;
+    top: 370px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -675,8 +654,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 420px;
+    left: 400px;
+    top: 570px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -694,7 +673,7 @@ color: #374151;
 width: 308px;
 height: 16px;
 left: 690px;
-top: 420px;
+top: 570px;
 text-align: left;
 font-family: 'Inter';
 font-style: normal;
@@ -709,8 +688,8 @@ color: #374151;
     position: absolute;
 width: 867px;
 height: 1px;
-left: 300px;
-top: 453px;
+left: 400px;
+top: 600px;
 
 /* gray/200 */
 
@@ -720,8 +699,8 @@ background: #E5E7EB;
     position: absolute;
 width: 308px;
 height: 16px;
-left: 300px;
-top: 470px;
+left: 400px;
+top: 610px;
 text-align: left;
 font-family: 'Inter';
 font-style: normal;
@@ -737,8 +716,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 500px;
+    left: 400px;
+    top: 650px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -755,7 +734,7 @@ color: #374151;
     width: 308px;
     height: 80px;
     left: 690px;
-    top: 500px;
+    top: 650px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -772,8 +751,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 590px;
+    left: 400px;
+    top: 750px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -789,7 +768,7 @@ color: #374151;
     width: 308px;
     height: 16px;
     left: 690px;
-    top: 590px;
+    top: 750px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -808,8 +787,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 630px;
+    left: 400px;
+    top: 790px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -831,7 +810,7 @@ color: #374151;
     width: 61px;
     height: 16px;
     left: 690px;
-    top: 630px;
+    top: 790px;
     list-style-type: none;
 }
 
@@ -839,8 +818,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 660px;
+    left: 400px;
+    top: 830px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -856,7 +835,7 @@ color: #374151;
 width: 308px;
 height: 16px;
 left: 690px;
-top: 660px;
+top: 830px;
 text-align: left;
 font-family: 'Inter';
 font-style: normal;
@@ -871,8 +850,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 690px;
+    left: 400px;
+    top: 870px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -888,7 +867,7 @@ color: #374151;
     width: 308px;
     height: 16px;
     left: 690px;
-    top: 690px;
+    top: 870px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -902,8 +881,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 720px;
+    left: 400px;
+    top: 910px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -919,7 +898,7 @@ color: #374151;
 width: 308px;
 height: 16px;
 left: 690px;
-top: 720px;
+top: 910px;
 text-align: left;
 font-family: 'Inter';
 font-style: normal;
@@ -934,8 +913,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 750px;
+    left: 400px;
+    top: 950px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -955,7 +934,7 @@ color: #374151;
 width: 308px;
 height: 16px;
 left: 690px;
-top: 760px;
+top: 950px;
 text-align: left;
 font-family: 'Inter';
 font-style: normal;
@@ -972,8 +951,8 @@ color: #374151;
     position: absolute;
     width: 308px;
     height: 16px;
-    left: 300px;
-    top: 790px;
+    left: 400px;
+    top:1000px;
     text-align: left;
     font-family: 'Inter';
     font-style: normal;
@@ -988,21 +967,15 @@ color: #374151;
     
     position: absolute;
     left: 690px;
-    top: 790px;
-    width: 200px;
-    height: 50px;
+    top:980px ;
    
 
 }
 .notes1{
-    list-style-type: none;
-    text-align: left;
     position: absolute;
-left:0px;
-right: 0%;
-top: 0%;
-bottom: 0%;
-width: 50px;
+text-align: left;
+width: 300px;
+height: 50px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;

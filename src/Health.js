@@ -1,8 +1,11 @@
 import React from 'react'
 
+import Margin from './Margin'
+
 function Health() {
   return (
-    <div>Health
+    <div>
+    <Margin />
         
     </div>
   )

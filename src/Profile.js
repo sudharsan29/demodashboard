@@ -1,8 +1,9 @@
 import React from 'react'
+import Margin from './Margin'
 function profile() {
   return (
     <div>
-     profile
+   <Margin />
     </div>
   )
   
